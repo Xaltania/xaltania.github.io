@@ -77,3 +77,4 @@ I thought it had to be connected, since it's literally "Messages From The Stars"
 ![jumble](block_star_jumbled.png)
 Write another bash script to vary the width and:
 ![flag](flag.png)
+
